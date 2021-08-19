@@ -1,4 +1,4 @@
-# Criação de um site com uma única página: [Wildbeast](https://www.origamid.com/projetos/wildbeast/).
+# Criação de um site com uma única página: Wildbeast
 
 
 
